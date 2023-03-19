@@ -494,6 +494,11 @@ img {
   padding-bottom: 2%;
 }
 
+iframe {
+  border: none;
+  display: block;
+}
+
 .responsive-iframe {
   position: absolute;
   top: 0;
